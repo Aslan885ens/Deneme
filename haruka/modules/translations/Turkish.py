@@ -177,10 +177,8 @@ TurkishStrings = {
 Ben bir [bu kişi](tg://user?id={654839744}) tarafından yönetilen bir grup yönetim botuyum. Bir [Marie](https://github.com/PaulSonOfLars/tgbot) forkuyum.
 python3'de python-telegram-bot, \
 kütüphanesini kullanarak yapıldım, ve sonunda tamanen açık kaynağım - beni neyin çalıştırdığını\
-[burada](https://github.com/peaktogoo/HarukaAya)) bulabilirsin!
+ bulabilirsin!
 
-Githubda pull requests göndermekten çekinme, yada destek grubuma, @EchelonTeam'a sorun bildirmek, soru sormak için \
-ya da öneride bulunmak için katıl:)
 
 Beni kullanmaktan hoşlanıyorsan ve vahşi doğada hayatta kalmama yardım etmek istiyorsan, /donate basarak VPS'yi ödemeyi/güçlendirmemi sağla!
 """,
